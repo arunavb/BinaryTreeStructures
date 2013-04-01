@@ -1,4 +1,1 @@
-BinaryTreeStructures
-====================
-
-All Codes that I have done that uses or designs a Binary Tree Like structures
+A Collection of the different projects that I have done over the past 2 years in my Masters at NYU
